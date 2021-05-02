@@ -2,15 +2,15 @@
 
 ### Author: Ahmad Al-frijat
 
-- [Deployed Site]()
-- [PR Link]()
-- [Repo Link]()
+- [Deployed Site](https://resty-ahmad.herokuapp.com/)
+- [PR Link](https://github.com/ahmadfrijat/RESTy-/pull/1)
+- [Repo Link](https://github.com/ahmadfrijat/RESTy-)
 
 ## Documentation
 
 ### UML Diagram
 
-![UML Lab26](public/lab26.png)
+![UML Lab26](https://raw.githubusercontent.com/ahmadfrijat/RESTy-/main/public/lab26.PNG)
 
 
 #### How to initialize/run your application (where applicable)
